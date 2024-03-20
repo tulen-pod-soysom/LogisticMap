@@ -1,0 +1,40 @@
+﻿  Graph.cpp
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,13): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,33): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,66): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,95): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(28,61): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(29,59): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(32,58): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(33,58): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(34,58): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(35,60): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(36,65): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(74,46): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(74,23): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(76,59): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(76,19): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(81,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(96,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(110,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(185,72): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(185,67): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(185,105): warning C4244: аргумент: преобразование "const double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(185,92): warning C4244: аргумент: преобразование "const double" в "Gdiplus::REAL", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(189,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(192,44): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(198,44): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(203,44): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+G:\Code\LogisticMap\LogisticMap\Graph.cpp(225,79): warning C4267: аргумент: преобразование из "size_t" в "INT"; возможна потеря данных
+  LogisticMap.cpp
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,13): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,33): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,66): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,95): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+  LogisticMapDlg.cpp
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,13): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,33): warning C4244: +=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,66): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+G:\Code\LogisticMap\LogisticMap\Graph.h(108,95): warning C4244: -=: преобразование "Gdiplus::REAL" в "INT", возможна потеря данных
+  Создание кода...
+  LogisticMap.vcxproj -> G:\Code\LogisticMap\x64\Debug\LogisticMap.exe
